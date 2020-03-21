@@ -51,13 +51,13 @@ $ git clone https://github.com/atinfinity/sdk_manager_docker.git
 - https://developer.nvidia.com/nvidia-sdk-manager から`NVIDIA SDK Manager`バイナリをダウンロード
 
   - NVIDIA Developper のアカウント必要。
-  - `sdkmanager_1.0.0-5517_amd64.deb` (2020/01/29 時点) このファイルを上記`sdk_manager_docker`に移動させておく。
+  - `sdkmanager_1.0.0-5538_amd64.deb` (2020/03/21 時点) このファイルを上記`sdk_manager_docker`に移動させておく。
 
 - Docker イメージのビルド
 
 ```shell
 $ cd sdk_manager_docker
-$ docker build --build-arg SDK_MANAGER_VERSION=1.0.0-5517 -t jetpack .
+$ docker build --build-arg SDK_MANAGER_VERSION=1.0.0-5538 -t jetpack .
 ```
 
 - イメージの確認
