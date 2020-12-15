@@ -13,6 +13,10 @@ Use 5.5mm MDF board and 2.5mm MDF board
 - [2.5mm](./Laser/Robot/2.5mm/All_2.5.svg)
 - [5.5mm](./Laser/Robot/5.5mm/All_5.5.svg)
 
+## Bills of materials
+
+- [201215_MicrobotBOM.pdf](./201215_MicrobotBOM.pdf)
+
 ## Documents
 
 - [Micorbot Manual](https://github.com/KMiyawaki/lectures/blob/master/ros/robots/jetson_microbot_boot_shutdown.md)
