@@ -15,7 +15,7 @@ Use 5.5mm MDF board and 2.5mm MDF board
 
 ## Bills of materials
 
-- [201215_MicrobotBOM.pdf](./201215_MicrobotBOM.pdf)
+- [Microbot_BOM.pdf](./Microbot_BOM.pdf)
 
 ## Documents
 
